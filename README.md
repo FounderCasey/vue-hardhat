@@ -25,3 +25,6 @@ Once your account is selected and you're successfuly on the correct testnet, cli
 
 
 ![rinkeby](https://user-images.githubusercontent.com/19507316/135695179-70da545e-c007-4776-9d7c-053a5611b514.gif)
+
+#### Security
+It's recommended that you use `dotenv` to store and secure your private keys/apis from the public
